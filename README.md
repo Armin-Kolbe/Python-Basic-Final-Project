@@ -1,4 +1,4 @@
-# python Basic Final Project
+# Python Basic Final Project
 # Python CLI Tools for File Manipulation
 
 In this project, we will develop a Python Command Line Interface (CLI) tool that facilitates file manipulation and directory navigation, similar to command-line functionalities in Unix-like operating systems. A key component of our tool will be an advanced logs system that tracks each command's usage.
